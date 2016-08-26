@@ -1,0 +1,16 @@
+-------------1. Coach is not affecting the emotional states
+-------------2. Add the real estate effects.
+3. Add more variety to tournaments
+4. Add the store for equipment.
+5. Add equipment bonuses to elo calculations in tournament and in header.
+6. Include equipment in status.
+-------------7. Add a 26 year old limit to tournaments
+-------------8. Make coaches cost based on coaching experience
+9. Figure out the analyst thing
+-------------10. Add sponsors
+-------------11. Put team elo on userlist
+12. Make the team members elo visible in user profile viewer
+
+
+Add game to site
+Add
